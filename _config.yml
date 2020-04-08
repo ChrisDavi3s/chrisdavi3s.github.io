@@ -16,7 +16,7 @@
 title: Test Web Host
 description: > # this means to ignore newlines until "baseurl:"
   Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
-baseurl: "/chrisdavi3s.github.io"
+baseurl: ""
 url: "https://chrisdavi3s.github.io"
 permalink: /:year/:month/:day/:title
 repository: chrisdavi3s/chrisdavi3s.github.io
