@@ -16,10 +16,10 @@
 title: lol nice
 description: > # this means to ignore newlines until "baseurl:"
   Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
-baseurl: "/matjek"
+baseurl: "/chrisdavi3s.github.io"
 url: "https://shawnteoh.github.io"
 permalink: /:year/:month/:day/:title
-repository: ShawnTeoh/matjek
+repository: chrisdavi3s/chrisdavi3s.github.io
 paginate: 5
 
 # MatJek specific configurations
